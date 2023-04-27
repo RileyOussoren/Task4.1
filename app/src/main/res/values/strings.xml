@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workout Timer</string>
+    <string name="workoutTimerString">0</string>
+    <string name="restTimerString">0</string>
+    <string name="setsEntryString"></string>
+    <string name="workoutEntryString"></string>
+    <string name="restEntryString"></string>
+</resources>
